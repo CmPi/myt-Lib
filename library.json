@@ -1,0 +1,13 @@
+{
+  "name": "myt-Lib",
+  "version": "1.0.0",
+  "description": "My Things PlatformIO library",
+  "keywords": ["embedded"],
+  "repository":
+  {
+    "type": "git",
+    "url": "https://github.com/CmPi/myt-Lib"
+  },
+  "frameworks": "*",
+  "platforms": "*"
+}
